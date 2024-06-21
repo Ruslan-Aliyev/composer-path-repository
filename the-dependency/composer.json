@@ -1,0 +1,13 @@
+{
+    "name": "someone/dependency",
+    "version": "1.0",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Some One",
+            "email": "someone@somewhere.com"
+        }
+    ],
+    "require": {}
+}

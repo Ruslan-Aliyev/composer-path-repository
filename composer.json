@@ -1,0 +1,11 @@
+{
+    "repositories": [
+        {
+            "type": "path",
+            "url": "./the-dependency"
+        }
+    ],
+    "require": {
+        "someone/dependency": "^1.0"
+    }
+}
