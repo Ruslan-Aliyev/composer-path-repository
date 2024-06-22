@@ -1,5 +1,10 @@
 {
     "name": "someone/dependency",
+    "autoload": {
+        "psr-4": {
+            "Someone\\Dependency\\": "src/"
+        }
+    },
     "version": "1.0",
     "type": "library",
     "license": "MIT",
